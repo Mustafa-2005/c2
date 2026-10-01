@@ -1,5 +1,3 @@
-// Educational C2 server: HTTP tasking API + interactive operator console.
-// For university coursework only — run it only against machines you own.
 package main
 
 import (
